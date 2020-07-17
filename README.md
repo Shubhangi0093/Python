@@ -1,10 +1,10 @@
 # Python
 Python_OOPs
+Class file.
 
 #Defining the instance method using an expresion inside a intance method
 
 class Marks:
-    
     def __init__(self,name,java,python):
         self.name=name
         self.java=java
