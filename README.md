@@ -1,21 +1,8 @@
 # Python
-Python_OOPs
-Studend.py
+The idea of these small programs in python is to give a basic knowledge to the beginners of programing,
+a understanding of small  unit of codes from the core.
 
-class Student:
-    
-    def __init__(self):
-        self.name="Anna"
-        self.age= 27
-        self.gender="Female"
-        
 
-#Creating an Object 
-s1=Student()
-
-print(s1.name)
-print(s1.age)
-print(s1.gender)
        
 
     
